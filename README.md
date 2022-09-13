@@ -1,4 +1,4 @@
-### Hi there I'm Andrei Strelchik👋
+### Hi there, I'm Andrei Strelchik👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrelchik&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
