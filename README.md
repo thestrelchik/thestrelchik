@@ -1,4 +1,4 @@
-### Hi there, I'm Andrei Strelchik👋
+### Hi there, I'm Andrei Strelchik 👋
 Minsk |
 FRONT-END DEVELOPER
 
